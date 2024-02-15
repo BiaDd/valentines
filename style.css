@@ -1,0 +1,39 @@
+.first-page-body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.buttons-div {
+    top: 50%;
+    margin-top: 3rem;
+    position: relative;
+    top: 50%;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.image-container img {
+    height: 40%;
+    width: 40%;
+}
+
+.yes-button {
+    display: flex;
+}
+
+.buttons-div .btn-xlarge {
+    padding: 18px 28px;
+    font-size: 22px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
